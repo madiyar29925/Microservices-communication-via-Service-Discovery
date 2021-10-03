@@ -1,0 +1,2 @@
+# Microservices-communication-via-Service-Discovery
+1. Work in a teams you organized and use a shared git team repository.  2. Create and start up Discovery Server (Eureka Server).  3. Configure and register (publish) all client microservices to Discovery Server.  4. Make a screenshot of these published microservices.  5. Make microservices consume these published microservices.  6. Test controllers again
